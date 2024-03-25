@@ -24,10 +24,10 @@ print_r($data);
   {
     ?>
     <tr>
-      <td><?php echo $item ->mssv ?></td>
-      <td><?php echo $item ->hoten ?></td>
-      <td><?php echo $item ->ngaysinh ?></td>
-      <td><?php echo $item ->diem ?></td>
+      <td><?php echo $item ->MSSV ?></td>
+      <td><?php echo $item ->HOTen ?></td>
+      <td><?php echo $item ->NgaySinh ?></td>
+      <td><?php echo $item ->Diem ?></td>
     </tr>
   }
 </table>
